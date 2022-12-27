@@ -164,7 +164,7 @@ const ArticleTwo = () => {
           </svg>
         </div>
         <div className="col-span-2 m-auto md:mr-0 md:col-span-1 hover:animate-bounce lg:animate-bounce">
-          <img src="./images/payoneer.png" alt="payoneer" />
+          <img src="./images/Payoneer.png" alt="payoneer" />
         </div>
       </div>
       <div className="lg:grid lg:grid-cols-3 lg:gap-20 md:py-10">
