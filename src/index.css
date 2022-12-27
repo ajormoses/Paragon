@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply bg-primaryPurple text-xs py-3 px-5 text-white rounded-md lg:py-4 lg:px-6 lg:text-sm hover:bg-green-400;
+}
+
+.card {
+  @apply p-6 my-10 shadow-lg font-headerfont rounded-md;
+}
+
+.container {
+  @apply w-container m-auto;
+}
