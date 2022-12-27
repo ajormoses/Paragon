@@ -9,7 +9,7 @@ const ArticleFive = () => {
 
   return (
     <div className="bg-[#FBFBFF] text-center py-8 lg:py-16 lg:mt-40">
-      <div className="container lg:w-[32rem] font-headerfont">
+      <div className="container sm:w-[25rem] md:w-[32rem] font-headerfont">
         <h1 className="font-extrabold text-3xl lg:text-4xl">
           Subscribe To Newsletters
         </h1>
